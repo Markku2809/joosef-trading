@@ -1,0 +1,2 @@
+# joosef-trading
+Trading
